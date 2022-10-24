@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Deadlycrackdown
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 @Deadlycrackdown
+- 👀 doing nothing is my profession
+- 🌱 learning c#
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
 
 <!---
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
